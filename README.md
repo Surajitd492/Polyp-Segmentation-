@@ -3,3 +3,5 @@ Colorectal polyps are benign lesions that develop in the colon and can progress 
 The proposed LeXNet++ framework
 ![fig3](https://github.com/user-attachments/assets/d3664fd9-d377-4fad-b9e0-856d314cfceb)
 The proposed LexNet++ architecture with layer-wise Heatmap Generation.
+![fig4](https://github.com/user-attachments/assets/52ef0444-ac07-4b8f-9d02-475478e6d648)
+Layerwise heatmap generation of the proposed LeXNet++ framework
